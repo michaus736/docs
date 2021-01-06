@@ -21,6 +21,7 @@
 |    Dawid Stasiak          | [dawids21](https://github.com/dawids21)                  | Java, Spring                                                    |
 |     Radosław Winiecki     | [radswn](https://github.com/radswn)                      | Java, Spring, Python                                            |
 |     Adam Lewandowski      | [ChairChandler](https://github.com/ChairChandler)               | C, C++, Qt, HTML, CSS, JS, TS, React, Angular, Python, ML, MySQL, Node.js Express, ElectronJS                                           |
+|     Michał Robakowski     | [michaus736](https://github.com/michaus736)              | js, node.js, sql server, dotnet core                            |
 
  - Java
  - Kotlin
